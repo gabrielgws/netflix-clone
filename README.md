@@ -35,8 +35,7 @@ O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 ## 💻 Projeto
 
-Este é um projeto desenvolvido durante a live **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
-
+Este é um projeto desenvolvido durante a live **[Bonieky Lacerda](https://www.youtube.com/watch?v=tBweoUiMsDg&t=8756s)**.
 
 ## 🔖 Layout
 
@@ -44,7 +43,6 @@ Direitos de imagem para Netflix
 Dados pegos do site Themoviedb.org
 
 ## 📝 License
-
 
 ---
 
