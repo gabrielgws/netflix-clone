@@ -39,7 +39,7 @@ Este é um projeto desenvolvido durante a live **[Bonieky Lacerda](https://www.y
 
 ## 🔖 Layout
 
-Direitos de imagem para Netflix
+Direitos de imagem para Netflix <br/>
 Dados pegos do site Themoviedb.org
 
 ## 📝 License
