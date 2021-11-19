@@ -2,7 +2,7 @@
   <img alt="Netflix-clone" src="src/assets/netflix-logo.png" width="160px">
 
 <h1 align="center">
-    <img alt="Netflix-clone" src="src/assets/netflix-clone.png" />
+    <img alt="Netflix-clone" src="src/assets/netflix-clone2.0.png" />
 </h1>
 
 <br>
